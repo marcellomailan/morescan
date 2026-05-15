@@ -79,7 +79,7 @@ exemplo.comMoreScan/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/morescan.git
+git clone https://github.com/marcellomailan/morescan.git
 cd morescan
 
 # Dê permissão de execução
