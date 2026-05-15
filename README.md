@@ -22,11 +22,11 @@
 
 ## Sobre o projeto
 
-O **MoreScan** é um script Bash de reconhecimento para pentest que executa as principais etapas de enumeração de um alvo sem depender de ferramentas externas instaladas. Tudo é feito com recursos nativos do Linux — `curl`, `jq`, `openssl` e os próprios mecanismos do bash — tornando o script portável, leve e pronto para rodar em qualquer ambiente.
+O **MoreScan** é um script Bash de reconhecimento para pentest que executa as principais etapas de enumeração de um alvo sem depender de ferramentas externas instaladas. Tudo é feito com recursos nativos do Linux — `curl`, `jq`, `openssl` e os próprios mecanismos do bash, tornando o script portável, leve e pronto para rodar em qualquer ambiente.
 
 O script foi pensado para profissionais de segurança ofensiva e estudantes que precisam de uma ferramenta de reconhecimento rápida, organizada e sem overhead de instalação.
 
-> ⚠️ **Aviso legal:** o MoreScan deve ser utilizado **exclusivamente em ambientes nos quais você possui autorização explícita** para realizar testes. O uso não autorizado contra sistemas de terceiros é ilegal. Os autores não se responsabilizam por uso indevido desta ferramenta.
+> ⚠️ **Aviso legal:** o MoreScan deve ser utilizado **exclusivamente em ambientes nos quais você possui autorização explícita** para realizar testes. O uso não autorizado contra sistemas de terceiros é ilegal. O autor não se responsabiliza por uso indevido desta ferramenta.
 
 ---
 
@@ -158,12 +158,6 @@ Contribuições são bem-vindas! Para sugerir melhorias, abrir issues ou enviar 
 3. Commit suas alterações (`git commit -m 'feat: adiciona nova funcionalidade'`)
 4. Push para a branch (`git push origin feature/nova-funcionalidade`)
 5. Abra um Pull Request
-
----
-
-## Licença
-
-Distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
 
 ---
 
